@@ -1,6 +1,3 @@
-mod memory;
-mod wasi;
-
 extern "C" {
     fn wasker_main();
 }
